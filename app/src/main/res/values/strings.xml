@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Transliteration</string>
+    <string name="enter_your_answer">Enter your answer</string>
+    <string name="result">Result</string>
+    <string name="textview">TextView</string>
+    <string name="check">Check</string>
+    <string name="newBtn">New</string>
+    <string name="button">Button</string>
+</resources>
